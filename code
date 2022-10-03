@@ -1,5 +1,7 @@
 #include<stdio.h>
+int A;
 void main(){
 printf("hello");
 printf("hacktoberfest");
+scanf("enter any number",&A);
 }
